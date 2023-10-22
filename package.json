@@ -1,0 +1,14 @@
+{
+  "name": "cassandra-test",
+  "module": "src/index.ts",
+  "type": "module",
+  "devDependencies": {
+    "bun-types": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  },
+  "dependencies": {
+    "cassandra-driver": "^4.7.2"
+  }
+}
